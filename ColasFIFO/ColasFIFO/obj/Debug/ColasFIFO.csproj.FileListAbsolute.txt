@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csprojAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csproj.GenerateResource.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.pdb
